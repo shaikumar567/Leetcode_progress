@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/shaikumar567/Leetcode_progress/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Greedy
 |  |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/3474-lexicographically-smallest-generated-string) |
+## Array
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/shaikumar567/Leetcode_progress/tree/master/2751-robot-collisions) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/shaikumar567/Leetcode_progress/tree/master/2751-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/shaikumar567/Leetcode_progress/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
