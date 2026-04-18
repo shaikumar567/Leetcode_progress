@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/shaikumar567/Leetcode_progress/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
