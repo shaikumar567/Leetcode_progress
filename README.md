@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/shaikumar567/Leetcode_progress/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaikumar567/Leetcode_progress/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shaikumar567/Leetcode_progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2463-minimum-total-distance-traveled](https://github.com/shaikumar567/Leetcode_progress/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shaikumar567/Leetcode_progress/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/shaikumar567/Leetcode_progress/tree/master/2573-find-the-string-with-lcp) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shaikumar567/Leetcode_progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/shaikumar567/Leetcode_progress/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shaikumar567/Leetcode_progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union-Find
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/shaikumar567/Leetcode_progress/tree/master/3783-mirror-distance-of-an-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/shaikumar567/Leetcode_progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
