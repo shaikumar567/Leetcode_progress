@@ -7,6 +7,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+
 <pre>
 <strong>Input:</strong> queries = [&quot;word&quot;,&quot;note&quot;,&quot;ants&quot;,&quot;wood&quot;], dictionary = [&quot;wood&quot;,&quot;joke&quot;,&quot;moat&quot;]
 <strong>Output:</strong> [&quot;word&quot;,&quot;note&quot;,&quot;wood&quot;]
