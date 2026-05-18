@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/shaikumar567/Leetcode_progress/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/shaikumar567/Leetcode_progress/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shaikumar567/Leetcode_progress/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/shaikumar567/Leetcode_progress/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/shaikumar567/Leetcode_progress/tree/master/2784-check-if-array-is-good) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/shaikumar567/Leetcode_progress/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/shaikumar567/Leetcode_progress/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/shaikumar567/Leetcode_progress/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shaikumar567/Leetcode_progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shaikumar567/Leetcode_progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shaikumar567/Leetcode_progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1345-jump-game-iv](https://github.com/shaikumar567/Leetcode_progress/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shaikumar567/Leetcode_progress/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shaikumar567/Leetcode_progress/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shaikumar567/Leetcode_progress/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
