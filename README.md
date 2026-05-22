@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/shaikumar567/Leetcode_progress/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shaikumar567/Leetcode_progress/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shaikumar567/Leetcode_progress/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shaikumar567/Leetcode_progress/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Array
 |  |
