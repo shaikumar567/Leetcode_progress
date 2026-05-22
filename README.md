@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/shaikumar567/Leetcode_progress/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shaikumar567/Leetcode_progress/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/shaikumar567/Leetcode_progress/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/shaikumar567/Leetcode_progress/tree/master/2540-minimum-common-value) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shaikumar567/Leetcode_progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/shaikumar567/Leetcode_progress/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
