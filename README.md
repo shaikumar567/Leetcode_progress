@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shaikumar567/Leetcode_progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shaikumar567/Leetcode_progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/shaikumar567/Leetcode_progress/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/shaikumar567/Leetcode_progress/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shaikumar567/Leetcode_progress/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/shaikumar567/Leetcode_progress/tree/master/3660-jump-game-ix) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shaikumar567/Leetcode_progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shaikumar567/Leetcode_progress/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shaikumar567/Leetcode_progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union-Find
 |  |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/shaikumar567/Leetcode_progress/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/shaikumar567/Leetcode_progress/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
 |  |
 | ------- |
