@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/shaikumar567/Leetcode_progress/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/shaikumar567/Leetcode_progress/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3838-weighted-word-mapping](https://github.com/shaikumar567/Leetcode_progress/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shaikumar567/Leetcode_progress/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/shaikumar567/Leetcode_progress/tree/master/2751-robot-collisions) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/shaikumar567/Leetcode_progress/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
