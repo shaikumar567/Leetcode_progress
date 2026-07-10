@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/shaikumar567/Leetcode_progress/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shaikumar567/Leetcode_progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shaikumar567/Leetcode_progress/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/shaikumar567/Leetcode_progress/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/shaikumar567/Leetcode_progress/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/shaikumar567/Leetcode_progress/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3689-maximum-total-subarray-value-i) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shaikumar567/Leetcode_progress/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shaikumar567/Leetcode_progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shaikumar567/Leetcode_progress/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/shaikumar567/Leetcode_progress/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shaikumar567/Leetcode_progress/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/shaikumar567/Leetcode_progress/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/shaikumar567/Leetcode_progress/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shaikumar567/Leetcode_progress/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/shaikumar567/Leetcode_progress/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/shaikumar567/Leetcode_progress/tree/master/3660-jump-game-ix) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/shaikumar567/Leetcode_progress/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shaikumar567/Leetcode_progress/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shaikumar567/Leetcode_progress/tree/master/3488-closest-equal-element-queries) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shaikumar567/Leetcode_progress/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -281,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shaikumar567/Leetcode_progress/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shaikumar567/Leetcode_progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/shaikumar567/Leetcode_progress/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shaikumar567/Leetcode_progress/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
@@ -334,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/shaikumar567/Leetcode_progress/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Linked List
 |  |
@@ -393,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shaikumar567/Leetcode_progress/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shaikumar567/Leetcode_progress/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/shaikumar567/Leetcode_progress/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shaikumar567/Leetcode_progress/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
